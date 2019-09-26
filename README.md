@@ -4,9 +4,12 @@ In this first portfolio piece, you will see
 
 In navigating the documents in this repository, please see the following main pages:
 
-(1) Student.
+(1) student.ipynb - notebook containing all the code that created this project
+(2) presentation.pdf - a non-technical presentation w/ notes 
+(3) Blog post link: https://lucaskellydataportfolio.weebly.com/data-science-blog/how-to-interpret-multi-linear-regression-coefficients-when-using-dummy-variables-from-categoricals
 
-Below, you will see the details of the project that were created by the Flatiron School. 
+Below, you will see the details and requirements of this project as created by the Flatiron School:
+
 # Module 1 Final Project
 
 

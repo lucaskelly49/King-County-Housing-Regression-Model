@@ -1,4 +1,12 @@
+# Multi Linear Regression Model Predicting House Sales 
 
+In this first portfolio piece, you will see 
+
+In navigating the documents in this repository, please see the following main pages:
+
+(1) Student.
+
+Below, you will see the details of the project that were created by the Flatiron School. 
 # Module 1 Final Project
 
 

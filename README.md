@@ -12,6 +12,10 @@ In navigating the documents in this repository, please see the following main pa
 
 Below, you will see the details and requirements of this project as created by the Flatiron School:
 
+
+
+
+
 # Module 1 Final Project
 
 

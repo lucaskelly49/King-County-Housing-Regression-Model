@@ -1,12 +1,14 @@
 # Multi Linear Regression Model Predicting House Sales 
 
-In this first portfolio piece, you will see 
+In this first portfolio piece, you will see how linear regression and predictive modeling can be combined to predict housing sales. This data comes from the popular Kaggle competition data found here:
+
+https://www.kaggle.com/harlfoxem/housesalesprediction
 
 In navigating the documents in this repository, please see the following main pages:
 
-(1) student.ipynb - notebook containing all the code that created this project
+(1) student.ipynb - notebook containing all the code that created this project.
 
-(2) presentation.pdf - a non-technical presentation w/ notes 
+(2) presentation.pdf - a non-technical presentation w/ notes.
 
 (3) Blog post link: https://lucaskellydataportfolio.weebly.com/data-science-blog/how-to-interpret-multi-linear-regression-coefficients-when-using-dummy-variables-from-categoricals
 
